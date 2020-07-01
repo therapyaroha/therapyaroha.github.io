@@ -25,6 +25,8 @@ I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current dat
 
 <p>If you are a client and would prefer a more immediate response than by email, you can reach me on Keybase <a href="https://keybase.io/geraldleejordan/chat" rel="nofollow" target="_blank">here</a>.</p>
 
+<p>Aroha nui,</p>
+
 <img src="https://geraldleejordan.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns
