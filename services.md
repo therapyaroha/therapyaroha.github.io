@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Professional
+title: Services
 ---
 
-The posts on this site related to my professional development are listed below in sequence from newer to older.
+The posts on this site related to my services are listed below in sequence from newer to older.
 
 {% assign postsByYear = (site.categories.['professional'] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
