@@ -9,7 +9,7 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Sigmar One', cursive;
   font-weight: 400;
-  color: #313131;
+  color: #333333;
   letter-spacing: -.025rem;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -57,19 +57,19 @@ p a {
 .theme-base-JJ .sidebar,
 .theme-base-JJ .sidebar-toggle:active,
 .theme-base-JJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #333333;
+  background-color: #b30000;
 }
 .theme-base-JJ .container a,
 .theme-base-JJ .sidebar-toggle,
 .theme-base-JJ .related-posts li a:hover {
-  color: #333333;
+  color: #b30000;
 }
 
 .message {
   background-color: unset;
-  border: 1px solid #333333;
-  color: #333333;
-  background-color: #f2f2f2;
+  border: 1px solid #b30000;
+  color: #b30000;
+  background-color: #d7d7d7;
 }
 
 .img-border {
@@ -82,20 +82,20 @@ p a {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 20px;
-  border-left: 20px solid #669966;
-  color: #333333;
+  border-left: 20px solid #d96c6c;
+  color: #b30000;
 }
 
 /* Gerald Lee Jordan Theme */
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #333333;
+  background-color: #b30000;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
 .theme-base-GJ .related-posts li a:hover {
-  color: #333333;
+  color: #b30000;
 /*  color: #3c4c54; */
 }
 
@@ -116,7 +116,7 @@ ul li a {
 }
 
 .sidebar-item {
-  color: #FFCC00;
+  color: #d96c6c;
 }
 
 .highlight-text {
@@ -124,7 +124,7 @@ ul li a {
 }
 
 .masthead-title small {
-  color: #669966;
+  color: #d96c6c;
 }
 
 .coinmarketcap-currency-widget {
