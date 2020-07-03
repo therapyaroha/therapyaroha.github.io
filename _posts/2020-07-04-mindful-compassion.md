@@ -13,6 +13,6 @@ published: true
 
 <p>It is also the opportunity for Gilbert to be joined by a long-term meditator (Choden is a former Buddhist monk). While the text is a decent introduction to the ideas of focusing on compassion, it is a bit weak in the actual application of mindfulness and compassion. It is possible to talk about meditation and not actually sit to practice it and this text feels a bit like that.</p> 
 
-<p>Want a primer? This book might help. Want a book with technique and exercises? This is not the book.</p>
+<p>Want a primer? This book might help.</p>
 
 <img class="img-border" src="https://arohatherapy.co.nz/public/assets/images/mindful-compassion-gilbert-choden.jpg" alt="Mindful Compassion Book">
