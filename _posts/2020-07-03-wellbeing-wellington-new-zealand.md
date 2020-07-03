@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wellbeing Wellington New Zealand
+title: Wellbeing Wellington
 date: 2020-07-03 19:47:00 +1200
 categories: [blog, services]
 author: Lee Jordan
@@ -11,7 +11,7 @@ published: true
 
 <p>In addition to counselling services, consulting in wellbeing utilising the research base of Positive Psychology is available with Aroha Therapy.</p>
 
-<p>Positive Psychology is a 21st Century approach to mental health which emphasises what is required for good mental health. This approach is in contrast to the traditional medical pathology model of earlier Psychology.</p>
+<p>Positive Psychology is a 21st Century approach to mental health which emphasises what is required for good mental health. This approach is in contrast to the traditional medical pathology model of earlier psychological approaches.</p>
 
 <h2>Wellbeing Training Services</h2>
 
