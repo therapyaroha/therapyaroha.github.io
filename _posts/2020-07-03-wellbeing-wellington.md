@@ -9,7 +9,7 @@ published: true
 
 <h2>Wellbeing Consulting Wellington</h2>
 
-<p>In addition to counselling services, consulting in wellbeing utilising the research base of Positive Psychology is available with Aroha Therapy.</p>
+<p>In addition to counselling services, consulting in wellbeing utilising the research base of Positive Psychology is available with Therapy Aroha.</p>
 
 <p>Positive Psychology is a 21st Century approach to mental health which emphasises what is required for good mental health. This approach is in contrast to the traditional medical pathology model of earlier psychological approaches.</p>
 
