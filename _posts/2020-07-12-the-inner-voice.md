@@ -9,7 +9,7 @@ published: true
 
 <h2>Talking to Ourselves</h2>
 
-<p>We talk to ourselves so much that we sometimes forget it even happens. This "voice" - sometimes referred to as our "inner dialogue" - has a powerful effect upon us that we rarely consider.</p> 
+<p>We talk to ourselves so much that we sometimes forget it even happens. This "voice" - sometimes referred to as our "inner monologue" - has a powerful effect upon us that we rarely consider.</p> 
 
 <p>Imagine someone whispering kind, comforting and supportive things in your ear all day. Would this help you make it through the day, especially a difficult day? Would you feel strengthened by these words, feeling that you could take on new challenges or perhaps look at old problems in new ways?</p>
 
