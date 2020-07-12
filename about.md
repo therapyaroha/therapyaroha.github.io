@@ -13,7 +13,7 @@ title: About
 
 <h2>Contact</h2>
 
-<p>My email <span class="highlight-text">for those requesting counselling services</span> is <a href="mailto:gerald@therapyaroha.co.nz">gerald@therapyaroha.co.nz</a>. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
+<p>My email <span class="highlight-text">for those requesting counselling services</span> is <a href="mailto:hello@therapyaroha.co.nz">hello@therapyaroha.co.nz</a>. Please be advised that I generally only respond to clients or prospective clients by email and my response times for prospective clients can be up to two NZ business days (<a href="https://www.timeanddate.com/holidays/new-zealand/" alt="New Zealand holidays calendar" rel="nofollow" target="_blank">calendar of NZ holidays</a>).</p>
 
 <h2>Date and Time</h2>
 
