@@ -23,4 +23,4 @@ published: true
 
 <h2>Wellbeing Contacts</h2>
 
-<p>To find out how we can help you, email <a href="mailto:contact@arohatherapy.co.nz">contact@arohatherapy.co.nz</a> with your initial details and we can discuss ways to support your wellbeing efforts.</p>
+<p>To find out how we can help you, email <a href="mailto:contact@therapyaroha.co.nz">contact@therapyaroha.co.nz</a> with your initial details and we can discuss ways to support your wellbeing efforts.</p>

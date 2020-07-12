@@ -7,4 +7,4 @@ author: Lee Jordan
 published: true
 ---
 
-<img class="img-border" src="https://arohatherapy.co.nz/public/assets/images/wassily-kandinsky-293-1913.jpg" alt="Wassily Kandinsky – 293 (1913)">
+<img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/wassily-kandinsky-293-1913.jpg" alt="Wassily Kandinsky – 293 (1913)">

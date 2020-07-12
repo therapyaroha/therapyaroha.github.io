@@ -15,4 +15,4 @@ published: true
 
 <p>Want a primer? This book might help.</p>
 
-<img class="img-border" src="https://arohatherapy.co.nz/public/assets/images/mindful-compassion-gilbert-choden.jpg" alt="Mindful Compassion Book">
+<img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/mindful-compassion-gilbert-choden.jpg" alt="Mindful Compassion Book">
