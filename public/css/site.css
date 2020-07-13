@@ -7,7 +7,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Sigmar One', cursive;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -36,7 +36,7 @@ p a {
 
 /* Style and "hide" the sidebar */
 .sidebar {
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Sigmar One', cursive;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
 }
