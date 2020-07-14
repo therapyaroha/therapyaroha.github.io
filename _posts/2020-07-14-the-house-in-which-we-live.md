@@ -9,7 +9,7 @@ published: true
 
 <h2>We Build Our Lives Around Us</h2>
 
-<p>This quote strikes me with its visualisation and insight - we create our world with our actions, including our words..</p> 
+<p>This quote strikes me with its visualisation and insight - we create our world with our actions, including our words.</p> 
 
 <h2>Creating Your Life</h2>
 
