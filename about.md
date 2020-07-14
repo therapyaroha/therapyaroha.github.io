@@ -27,4 +27,4 @@ I am in Te Whanganui-a-Tara (Wellington) Aotearoa New Zealand and my current dat
 
 <img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
-Lee Jordan, MBA, MEd, MCouns
+Lee Jordan, MBA, MEd, MCouns ❤️
