@@ -21,7 +21,7 @@ published: true
 
 <h2>Compassion-Focused Therapy</h2>
 
-<p>These voices are bullies, hired by you, trusted by you and used by you to terrorise yourself. Learn to see these voices for what they are. Learn to be kind and supportive to yourself. Meditation can help you recognise the voices and can help you begin to be kind to yourself. Cognitive Therapy can help you challenge what the voices say. The first step is to notice the voices and to want them to change. When you notice these voices and want help, contact us. We are available in Wellington and online to help.</p>
+<p>These voices are bullies, hired by you, trusted by you and used by you to terrorise yourself. Learn to see these voices for what they are. Learn to be kind and supportive with yourself. Meditation can help you recognise the voices and can help you begin to be kind to yourself. Cognitive Therapy can help you challenge what the voices say. The first step is to notice the voices and to want them to change. When you notice these voices and want help, contact us. We are available in Wellington and online to help.</p>
 
 <p>Aroha nui,</p>
 
