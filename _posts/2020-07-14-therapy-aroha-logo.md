@@ -4,7 +4,7 @@ title: Therapy Aroha Logo
 date: 2020-07-14 12:44:00 +1200
 categories: [blog, services]
 author: Lee Jordan
-published: false
+published: true
 ---
 
 <h2>Talking With Others</h2>
