@@ -17,7 +17,7 @@ published: true
 
 <h2>Therapy Aroha</h2>
 
-<p>The image for Therapy Aroha is a campfire. This place of warmth and comfort is a place for sharing. Perhaps you are travelling alone and want to come sit by the fire. Perhaps you have stories you want to tell. Perhaps you want to sit by the fire and take comfort hearing from others and knowing that you are not alone. Welcome to the fire, friend.</p>
+<p>The image for Therapy Aroha is a campfire. This place of warmth and comfort is a place for sharing. Perhaps you are travelling alone and want to come sit by the fire. Perhaps you have stories you want to tell. Perhaps you want to sit by the fire and take comfort hearing from others and knowing that you are not alone. Welcome to the fire, whānau.</p>
 
 <h2>Therapy Aroha Logo</h2>
 
