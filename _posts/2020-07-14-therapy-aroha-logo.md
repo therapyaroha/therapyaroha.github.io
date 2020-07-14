@@ -22,3 +22,9 @@ published: true
 <h2>Therapy Aroha Logo</h2>
 
 <p><img src="https://therapyaroha.co.nz/public/assets/images/therapy-aroha-logo.png" alt="Therapy Aroha Logo"></p>
+
+<p>Aroha nui,</p>
+
+<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+
+Lee Jordan, MBA, MEd, MCouns
