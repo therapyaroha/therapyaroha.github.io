@@ -23,6 +23,8 @@ published: true
 
 <p><img src="https://therapyaroha.co.nz/public/assets/images/therapy-aroha-logo.png" alt="Therapy Aroha Logo"></p>
 
+<p>May you find insights, comfort and assistance in the content shared here!</p>
+
 <p>Aroha nui,</p>
 
 <img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
