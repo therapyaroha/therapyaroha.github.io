@@ -136,7 +136,8 @@ ul li a {
 }
 
 .post-separator {
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 40px;
   margin: 10px;
   background-color: #ac4142;
   width: 100%;
