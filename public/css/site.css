@@ -134,3 +134,9 @@ ul li a {
 .coinmarketcap-currency-widget div {
   padding: 10px !important; 
 }
+
+.post-separator {
+  padding: 10px;
+  color: #ac4142;
+  height: 10px;
+}
