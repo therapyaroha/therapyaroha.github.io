@@ -137,7 +137,8 @@ ul li a {
 
 .post-separator {
   padding: 10px;
-  color: #ac4142;
+  margin: 10px;
+  background-color: #ac4142;
   width: 100%;
   height: 10px;
 }
