@@ -9,7 +9,7 @@ published: true
 
 <h2>Giving Over Power</h2>
 
-<p>We say things like "He made me angry!" This confused way of speaking then becomes confused thinking. No one "makes" us angry - we respond in anger generated within ourselves. Once you realise that you alone have the power and responsibility for your thoughts, you gain perspective and regain power over your own responses. Others are not making you think anything - you are giving up power and responding without thinking to their actions, or rather your interpretation of their actions (also within your control).</p> 
+<p>We say things like "He made me angry!" This confused way of speaking then becomes confused thinking. No one <i>makes</i> us angry - we respond with anger generated within ourselves. Once you realise that you alone have the power and responsibility for your thoughts, you gain perspective and regain power over your own responses. Others are not making you think anything - you are giving up power and responding without thinking to their actions, or rather your interpretation of their actions (also within your control).</p> 
 
 <h2>The View You Take of Things</h2>
 
