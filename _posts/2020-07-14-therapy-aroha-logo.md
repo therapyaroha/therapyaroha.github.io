@@ -2,7 +2,7 @@
 layout: post
 title: Therapy Aroha Ltd Logo
 date: 2020-07-14 12:44:00 +1200
-categories: [blog, services]
+categories: [blog]
 author: Lee Jordan
 published: true
 ---

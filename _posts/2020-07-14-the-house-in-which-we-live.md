@@ -9,7 +9,7 @@ published: true
 
 <h2>We Build Our Lives Around Us</h2>
 
-<p>This quote strikes me with its visualisation and insight - we create our world with our actions, including our words.</p> 
+<p>This quote strikes me with its imagery and insight - we create our world with our actions, including our words.</p> 
 
 <p><blockquote class="twitter-tweet" data-width="100%"><p lang="en" dir="ltr">&quot;The words you speak become the house in which you live.&quot; ~Hafiz</p>&mdash; Therapy Aroha ❤️ (@therapyaroha) <a href="https://twitter.com/therapyaroha/status/1282897478317031424?ref_src=twsrc%5Etfw">July 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </p> 
 
