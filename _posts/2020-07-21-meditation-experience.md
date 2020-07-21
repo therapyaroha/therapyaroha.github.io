@@ -17,12 +17,20 @@ published: true
 
 <p>Over the last few weeks, I have had another spike in my practice. I cannot say exactly what inspired it, but as my practice and mind have expanded, I realised that something big was coming. After a good weekend of extended practice, I woke up just after midnight on Monday morning 20 July (yesterday). My mind was incredibly serene. I sensed the chaos that exists around all of us and realised that it was not me, that it could not touch my true essence - tears began to flow. Tears of peace, joy and contentment. I felt an urge to touch the ground, my hand reaching for this connection.</p>
 
-<p>Any description would be any analogy, so I will go with the one of the imagery that popped into my mind at the time. When I was a child, I watched "The Time Machine". I also saw the early 21st Century remake. As I felt so at peace, I was reminded of the scenes where the traveller is sitting in the machine, with a small bubble around himself, protected from the changes taking place around him. The bubble is only as far as he can reach, a metre or two, and outside of that space, civilisations are rising and falling, nuclear weapons (or such) are detonating, fires are raging - but inside the bubble, our traveller is watching everything happen, untouched by what is taking place. Surprised, but not emotionally involved. I saw these images and realised that this what enlightenment is. We see what happens around us, but we never lose our equanimity. This, in fact, is one of the sublime attitudes in Buddhism, a realisation of reality's transcience. At that moment, in the darkness, I knew a peace that I have never before experienced and in the hours since that time, I have experienced peace and compassion for which I have nothing to compare. In the hour following, in fact, I lay in bed and radiated compassion for all beings. This is where I am still.</p>
+<p>Any description would be an analogy, so I will go with the one of the imagery that popped into my mind at the time. When I was a child, I watched "The Time Machine" on TV. I also saw the early 21st Century remake (a few times). As I felt so at peace, I was reminded of the scenes where the traveller is sitting in the machine, with a small bubble around himself, protected from the changes taking place around him. The bubble is only as far as he can reach, a metre or two, and outside of that space, civilisations are rising and falling, nuclear weapons (or such) are detonating, fires are raging - but inside the bubble, our traveller is watching everything happen, untouched by what is taking place. Surprised, but not emotionally involved. I saw these images in my mind and realised that this is what enlightenment is. We see what happens around us, but we never lose our equanimity. This, in fact, is one of the sublime attitudes in Buddhism - a realisation of reality's transcience. At that moment, in the darkness, I knew a peace that I have never before experienced and in the hours since that time, I have experienced peace and compassion for which I have nothing to compare. In the hour following, in fact, I lay in bed and radiated compassion for all beings. This is where I am still.</p>
 
 <h2>My Meditation Bench</h2>
 
-<img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/meditation-bench-practice.jpg" alt="Meditation Bench">
+<p><img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/meditation-bench-practice.jpg" alt="Meditation Bench"></p>
+
+<p>I always say that meditation is the best gift I ever gave myself and this bench is the best gift I ever purchased for myself. If you are struggling sitting on a cushion, definitely give a bench a try!</p>
 
 <h2>Meaning of this Experience</h2>
 
-<p>Is there a label for this experience? Perhaps. Does it matter what it is labelled? Perhaps not. We create labels to limit experience and this experience was too boundless for such.</p>
+<p>Is there a label for this experience I had yesterday? Perhaps. Does it matter what it is labelled? Perhaps not. We create labels to limit experience and this experience was too boundless for such. I don't need a label for insight that exceeds language and which brings such equanimity.</p>
+
+<p>Aroha nui,</p>
+
+<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+
+Lee Jordan, MBA, MEd, MCouns ❤️
