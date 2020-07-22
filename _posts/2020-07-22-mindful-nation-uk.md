@@ -13,13 +13,13 @@ published: true
 
 <p><blockquote> . . . informal cross-party groups of UK politicians who join together to pursue a particular topic or interest area. They are essentially run by and for Members of the Commons and Lords, although many groups involve individuals and organisations from outside Parliament in their administration and activities.</blockquote></p>
 
-<p>https://www.themindfulnessinitiative.org/mindfulness-all-party-parliamentary-group</p>
+<p>Source: https://www.themindfulnessinitiative.org/mindfulness-all-party-parliamentary-group, Accessed 22 July 2020</p>
 
 <p>This group was set up in 2014 with the expressed purpose:</p>
 
 <p><blockquote>To review research evidence, current best practice, extent and success of implementation, and potential developments in the application of mindfulness within a range of policy areas, and to develop policy recommendations for government based on these findings.</blockquote></p>
 
-<p>https://www.themindfulnessinitiative.org/mindfulness-all-party-parliamentary-group</p>
+<p>Source: https://www.themindfulnessinitiative.org/mindfulness-all-party-parliamentary-group, Accessed 22 July 2020</p>
 
 <p>The group's findings supported both the effectiveness of mindfulness and continued use and research into its application across multiple domains, including work, school, healthcare and prisons. In calling for increased focus on mindfulness application in the UK, the group stated:</p>
 
