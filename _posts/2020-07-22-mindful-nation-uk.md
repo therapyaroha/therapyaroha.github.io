@@ -29,4 +29,4 @@ published: true
 
 <h2>Mindful Nation UK</h2>
 
-<p>While Mindfulness has been researched extensively in relation to psychological interventions (e.g. Mindfulness-Based Cognitive Therapy and Mindfulness-Based Stress Reduction), this document suggests ways in which Mindfulness can be used in other areas - some not within their criticisms, such as using a practice that grew out of spiritual practice to increase work productivity.</p>
+<p>While Mindfulness has been researched extensively in relation to psychological interventions (e.g. Mindfulness-Based Cognitive Therapy and Mindfulness-Based Stress Reduction), this document suggests ways in which Mindfulness can be used in other areas - some not within their criticisms, such as using techniques that grew out of spiritual practice to increase work productivity.</p>
