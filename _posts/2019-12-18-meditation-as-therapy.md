@@ -44,7 +44,7 @@ published: true
 
 <h2>Trying Mindfulness and Meditation</h2>
 
-<p>We are more than our fleeting thoughts, which seem to crowd our mind every waking moment. Learning to still our minds and sit with thoughts (some unpleasant) gives us a new vantage point to understand ourselves and our interactions with stimuli. Also, it can bring incredible calm to life! I once told a friend that meditation was the greatest gift I had ever given myself. If you try it, <span class="highlight-span">remember to be gentle on yourself - there is no "right" way and don't be down on yourself if you can't focus at first</span>. Learning to do so is the whole reason to practice - and it is exactly that, a "practice".</p>
+<p>We are more than our fleeting thoughts, which seem to crowd our mind every waking moment. Learning to still our minds and sit with thoughts (some unpleasant) gives us a new vantage point to understand ourselves and our interactions with stimuli. Also, it can bring incredible calm to life! I once told a friend that meditation was the greatest gift I had ever given myself. If you try it, <span class="highlight-span">remember to be gentle on yourself - there is no "right" way and don't be down on yourself if you can't focus at first</span>. Learning to do so is the whole reason to practice - and it is exactly that -  a practice.</p>
 
 <p>Aroha nui,</p>
 
