@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meditating on Pain
-date: 2020-10-18 18:55:00 +1200
+date: 2020-10-18 18:55:00 +1300
 categories: [blog, meditation]
 author: Lee Jordan
 published: true
