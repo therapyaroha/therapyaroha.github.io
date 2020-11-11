@@ -19,11 +19,11 @@ published: true
 
 <h2>Focusing on our Inner Value</h2>
 
-<p>I love this quote from <i>The Tibetan Book of the Dead</i> because it encourages us to trust our inner wisdom. It also speaks of our innate dignity. These are powerful ideas and worthy of our consideration. Imagine for a moment that we are all noble and wise and that this includes you! This doesn't take anything from another, but adds to us all. We are all lifted up, together!</p>
+<p>I love this quote from <i>The Tibetan Book of the Dead</i> because it encourages us to trust our inner wisdom. It also speaks of our innate dignity. These are powerful ideas and worthy of our consideration. Imagine for a moment that we are all noble and wise and that this includes you. This doesn't take anything from another, but adds to us all. We are all lifted up, together!</p>
 
 <p>Try to emphasise this for a few days. Repeat this quote. Look around you at others and see their nobility. Look in the mirror and see your own. Imagine that there is wisdom inside of you. Be kind to yourself, oh you of noble birth!</p>
 
-<p>See the sift in perspective that this will bring, both in your relating with self, and your relating with others.</p>
+<p>See the shift in perspective that this will bring, both in your relating with self, and your relating with others.</p>
 
 <p>Aroha nui,</p>
 
