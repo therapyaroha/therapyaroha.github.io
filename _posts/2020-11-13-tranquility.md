@@ -13,7 +13,7 @@ published: true
 
 <h2>Finding Peace</h2>
 
-<p>I have been meditating since 2003. Sometimes, I go for a while. Sometimes, I get distracted. I have been meditating daily since early July. Four months of meditating every day (except one after having a tooth extracted). At least once a day, on a few weekends twice a day. Meditating through tooth pain. Meditating through daily distractions. What has happened? I have reached a state of tranquillity that not only exists in meditation itself, but carries itself into the rest of my life. I sit at my desk and notice the breath. I have the benefits of meditation. I walk through the city and feel the earth against my feet. I feel the benefits of meditation. </p>
+<p>I have been meditating since 2003. Sometimes, I go for a while. Sometimes, I get distracted. I have been meditating daily since early July. Four months of meditating every day (except one after having a tooth extracted). At least once a day, on a few weekends twice a day. Meditating through tooth pain. Meditating through daily distractions. What has happened? I have reached a state of tranquillity that not only exists in meditation itself, but carries into the rest of my life. I sit at my desk and notice the breath. I have the benefits of meditation. I walk through the city and feel the earth against my feet. I feel the benefits of meditation. </p>
 
 <h2>Living in the Depths of Consciousness</h2>
 
