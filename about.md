@@ -5,7 +5,7 @@ title: About
 
 <h2>Gerald Lee Jordan</h2>
 
-<p>I began counselling in the 1980s and, after many years of life experience (study, travel, parenting and work), I returned to this love by beginning a <i>Master of Counselling</i> and volunteer telephone counsellor training in 2009.</p>
+<p>I began counselling in the 1980s and after many years of life experience (study, travel, parenting and work), I returned to this love by beginning a <i>Master of Counselling</i> and volunteer telephone counsellor training in 2009.</p>
 
 <p>Few things bring me more joy or satisfaction than helping others and I am currently expanding my assistance into newer endeavours online.</p>
 
