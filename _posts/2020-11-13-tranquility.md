@@ -7,7 +7,7 @@ author: Lee Jordan
 published: true
 ---
 
-<h2>The Tranquillity Within Us</h2>
+<h2>The Tranquility Within Us</h2>
 
 <p>There is within Buddhist imagery, the visualisation of consciousness being a very deep body of water, where there are waves on the surface, but tranquillity underneath these surface waves. Most live focused on the surface, feeling themselves thrown around by the superficial events of life. The idea is that under these relatively shallow waves is a great depth of calm which cannot be disturbed by surface movements. </p>
 
