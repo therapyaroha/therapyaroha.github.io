@@ -2,7 +2,7 @@
 layout: post
 title: Tranquility
 date: 2020-11-19 12:09:00 +1300
-categories: [blog]
+categories: [blog, meditation]
 author: Lee Jordan
 published: true
 ---
