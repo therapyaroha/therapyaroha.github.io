@@ -23,7 +23,7 @@ published: true
 
 <p>Love does not distinguish. All beings can be the object of love, including ourselves.</p>
 
-<h2>Love nurtures more love</h2>
+<h2>Love nurtures love</h2>
 
 <p>Start a love affair that will last a lifetime by looking at the person in the mirror and imagining this person as worthy of love. The love you share with this person will radiate out to others.</p>
 
