@@ -17,7 +17,7 @@ published: true
 
 <h2>Loving the person with whom you are most intimate</h2>
 
-<p>You have to chance to live in this love every day, even if you are alone. You can see the person in the mirror and realise that this person needs love. You can feel compassion for this person. You can be gentle and kind, knowing this person is as worthy as anyone else of love. When you love this person, you are in a gentle and compassionate space to reach out to others.</p>
+<p>You have the chance to live in this love every day, even if you are alone. You can see the person in the mirror and realise that this person needs love. You can feel compassion for this person. You can be gentle and kind, knowing this person is as worthy as anyone else of love. When you love this person, you are in a gentle and compassionate space to reach out to others.</p>
 
 <h2>Opening your heart to all</h2>
 
