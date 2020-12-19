@@ -15,7 +15,7 @@ published: true
 
 <h2> Starting the Journey </h2>
 
-<p>I had some pain in my neck. I know I work too much at computers, but how much is “normal” stiffness and pain for someone at my age and stage of life? I decided that I would give yoga a go to answer questions like this and the see what is behind all of the yoga hype. Sure, those leaving yoga classes at my gym seem to have better posture than most. Sure, those leaving yoga practice seems more comfortable in themselves. Sure, they have a spring in their steps. Is this from yoga or something else? I will be able to comment on this over the coming weeks.</p>
+<p>I had some pain in my neck. I know I work too much at computers, but how much is “normal” stiffness and pain for someone at my age and stage of life? I decided that I would give yoga a go to answer questions like this and see what is behind all of the yoga hype. Sure, those leaving yoga classes at my gym seem to have better posture than most. Sure, those leaving yoga practice seems more comfortable in themselves. Sure, they have a spring in their steps. Is this from yoga or something else? I will be able to comment on this over the coming weeks.</p>
 
 <h2>Inspiration</h2>
 
