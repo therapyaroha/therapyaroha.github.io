@@ -1,8 +1,8 @@
 # Setup
-title:               Therapy Aroha Ltd
-tagline:             'counselling and wellbeing'
-description:         'Wellington and Online Counselling Services With Compassion-Focused Therapy, Narrative Therapy, Positive Psychology and Mindfulness-Based Cognitive Therapy'
-url:                 https://therapyaroha.co.nz
+title:               Therapy Aroha
+tagline:             'mindfulness and heartfulness'
+description:         'Articles, training, consulting and counseling in compassion therapy'
+url:                 https://therapyaroha.com
 baseurl:             /
 paginate:            5
 permalink:           pretty
