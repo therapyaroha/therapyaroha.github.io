@@ -90,7 +90,7 @@ p a {
 .theme-base-GJ .sidebar,
 .theme-base-GJ .sidebar-toggle:active,
 .theme-base-GJ #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #666666;
 }
 .theme-base-GJ .container a,
 .theme-base-GJ .sidebar-toggle,
