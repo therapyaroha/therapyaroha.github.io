@@ -2,7 +2,7 @@
 layout: post
 title: Heartfulness
 date: 2021-02-03 11:11:00 +1300
-categories: [blog, heartfulness, mindfulness]
+categories: [blog, heartfulness, meditation]
 author: Lee Jordan
 published: true
 ---
