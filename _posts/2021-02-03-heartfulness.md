@@ -36,7 +36,7 @@ May I know peace. </p>
 
 <p>May [insert name] be happy, <br />
 May [insert name]  be healthy, <br />
-May [insert name]  be loved, ,<br />
+May [insert name]  be loved, <br />
 May [insert name]  know peace. </p>
 
 
