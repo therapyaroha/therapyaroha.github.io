@@ -11,10 +11,10 @@ published: false
 
 <p></p>
 
-<p><img src="https://therapyaroha.co.nz/public/assets/images/meditation-practice-red.jpg" alt="Meditation Practice and the Ego"></p>
+<p><img src="https://therapyaroha.com/public/assets/images/meditation-practice-red.jpg" alt="Meditation Practice and the Ego"></p>
 
 <p>Aroha nui,</p>
 
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://therapyaroha.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns ❤️

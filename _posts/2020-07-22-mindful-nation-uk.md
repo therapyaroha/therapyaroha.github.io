@@ -25,7 +25,7 @@ published: true
 
 <p><blockquote>We have been impressed by the quality and range of evidence for the benefits of mindfulness and believe it has the potential to help many people to better health and flourishing. On a number of issues ranging from improving mental health and boosting productivity and creativity in the economy through to helping people with long-term conditions such as diabetes and obesity, mindfulness appears to have an impact. This is a reason for government to take notice and we urge serious consideration of our report</blockquote></p>
 
-<p><a href="https://therapyaroha.co.nz/public/assets/pdf/mindfulness-appg-report_2.0.pdf" title="Mindful Nation UK" target="_blank">Preface, Mindful Nation UK</a>
+<p><a href="https://therapyaroha.com/public/assets/pdf/mindfulness-appg-report_2.0.pdf" title="Mindful Nation UK" target="_blank">Preface, Mindful Nation UK</a>
 
 <h2>Mindful Nation UK</h2>
 

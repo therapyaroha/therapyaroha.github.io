@@ -11,7 +11,7 @@ published: true
 
 <p>Many people ask me what place meditation has in therapy. Often I get asked if this is some sort of religious practice. People have a number of reactions around these questions. As I have just finished meditating (the photo of me on this page is post-meditation) and am in a very good space mentally, I will attempt a start of a response - this is only a start, as the topic of meditation is a large one (and paradoxically quite straight-forward).</p>
 
-<p><img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/counsellor-meditation-therapy.jpg" alt="Counsellor Mindfulness Therapy"></p>
+<p><img class="img-border" src="https://therapyaroha.com/public/assets/images/counsellor-meditation-therapy.jpg" alt="Counsellor Mindfulness Therapy"></p>
 
 <h2>Mindfulness-Based Cognitive Therapy</h2>
 
@@ -48,6 +48,6 @@ published: true
 
 <p>Aroha nui,</p>
 
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://therapyaroha.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns ❤️

@@ -13,4 +13,4 @@ published: false
 
 <h2>Image</h2>
 
-<p><img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/mindful-compassion-gilbert-choden.jpg" alt="Mindful Compassion Book"></p>
+<p><img class="img-border" src="https://therapyaroha.com/public/assets/images/mindful-compassion-gilbert-choden.jpg" alt="Mindful Compassion Book"></p>

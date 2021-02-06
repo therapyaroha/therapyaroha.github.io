@@ -21,12 +21,12 @@ published: true
 
 <h2>Therapy Aroha Ltd Logo</h2>
 
-<p><img src="https://therapyaroha.co.nz/public/assets/images/therapy-aroha-logo.png" alt="Therapy Aroha Ltd Logo"></p>
+<p><img src="https://therapyaroha.com/public/assets/images/therapy-aroha-logo.png" alt="Therapy Aroha Ltd Logo"></p>
 
 <p>May you find insights, comfort and assistance in the content shared here!</p>
 
 <p>Aroha nui,</p>
 
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://therapyaroha.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns ❤️

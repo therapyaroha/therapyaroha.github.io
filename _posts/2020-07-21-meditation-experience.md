@@ -21,7 +21,7 @@ published: true
 
 <h2>My Meditation Bench</h2>
 
-<p><img class="img-border" src="https://therapyaroha.co.nz/public/assets/images/meditation-bench-practice.jpg" alt="Meditation Bench"></p>
+<p><img class="img-border" src="https://therapyaroha.com/public/assets/images/meditation-bench-practice.jpg" alt="Meditation Bench"></p>
 
 <p>I always say that meditation is the best gift I ever gave myself and this bench is the best gift I ever purchased for myself. If you are struggling sitting on a cushion, definitely give a bench a try!</p>
 
@@ -31,6 +31,6 @@ published: true
 
 <p>Aroha nui,</p>
 
-<img src="https://therapyaroha.co.nz/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
+<img src="https://therapyaroha.com/public/assets/images/lee-jordan.png" alt="Lee Jordan signature">
 
 Lee Jordan, MBA, MEd, MCouns ❤️
