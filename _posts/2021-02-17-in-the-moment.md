@@ -9,7 +9,7 @@ published: true
 
 <h2>The Now</h2>
 
-<p>Since I began meditating in 2003, I have heard a lot about “the now”. Some comment that the now is all we have, emphasising that the past and future do not exist. All of this can seem a bit esoteric. I was thinking about this topic on the train during the commute into Wellington, this morning. </p>
+<p>Since I began meditating in 2003, I have heard a lot about “the now”. Some comment that <i>the now</i> is all we have, emphasising that the past and future do not exist. All of this can seem a bit esoteric. I was thinking about this topic on the train during the commute into Wellington this morning. </p>
 
 <h2>The Future</h2>
 
