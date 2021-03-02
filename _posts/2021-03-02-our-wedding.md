@@ -27,7 +27,7 @@ published: true
 
 <h2>Online Wedding</h2>
 
-<p>We got married at 11.30 New Zealand time on 27 February, 17.30 US Eastern time on 26 February.</p>
+<p>We got married at 11.30 New Zealand time on 27 February and 17.30 US Eastern time on 26 February.</p>
 
 <p>Our loved ones were online, with Tracy's children, brother, sister and brother-in-law at her home. At my home was my best man (my son, Jack), my witness (Steve) and me.</p>
 
