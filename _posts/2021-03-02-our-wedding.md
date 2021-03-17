@@ -7,7 +7,7 @@ author: Lee Jordan
 published: true
 ---
 
-<h2>Tracy and I</h2>
+<h2>Tracy and I Met Online</h2>
 
 <p>It was July 2020 and Aotearoa New Zealand was out of our first lock-down. People were making their way back to offices and other public venues. After the better part of two months in lock-down at home with my son, New Zealand had beaten COVID-19 and I was back in an office and trying to get into the rhythm of work again. I got a message on my phone from the the vegetarian/vegan dating app that I had joined.</p>
 
